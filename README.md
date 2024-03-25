@@ -1,4 +1,4 @@
-# Reliable_UDP_Server
+# Reliable UDP Server
 
 A reliable UDP server built in python 3 for the Csc 361 (Computer Communication and Networks) course at UVIC. 
 
